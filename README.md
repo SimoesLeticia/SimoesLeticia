@@ -1,13 +1,15 @@
-## Hello! I'm Letícia. 👋
+## Hello! I'm Letícia. 👋🏽
 
-👩🏾‍💻 Working as Delphi Developer
+👩🏽‍💻 Working as Delphi Developer
 
-🎓 Degree in Systems Analysis and Development.
+🎓 Degree in Analysis and Systems Development.
 
 📊 Transitioning my career into the field of data analytics
 
 [![Linkedin](https://img.shields.io/badge/-Let%C3%ADcia%20Sim%C3%B5es-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simoesleticia/)](https://www.linkedin.com/in/simoesleticia)
+[![Gmail](https://img.shields.io/badge/-simoes.lets@gmail.com-grey?style=flat-square&logo=gmail&logoColor=red&link=mailto:simoes.lets@gmail.com)](mailto:simoes.lets@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/SimoesLeticia?label=Follow&style=social)
+
 
 ### About me:
 🗒️ I've been in the IT field since 2015, exploring the realm of programming. Recently, I've decided to broaden my horizons and embark on a new journey: diving into the world of data! Equipped with an analytical and curious mind, I see data analysis not only as a challenge but also as a passion. I'm always looking for the next challenge.
