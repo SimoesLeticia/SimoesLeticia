@@ -15,13 +15,22 @@
 🗒️ I've been in the IT field since 2015, exploring the realm of programming. Recently, I've decided to broaden my horizons and embark on a new journey: diving into the world of data! Equipped with an analytical and curious mind, I see data analysis not only as a challenge but also as a passion. I'm always looking for the next challenge.
 
 ### Languages ​​and Tools:
-<code><img height="20" src="https://img.icons8.com/?size=100&id=105446&format=png&color=000000" alt="Delphi" title="Delphi"></code>
-<code><img height="20" src="https://wiki.freepascal.org/images/0/00/fp32_ico.png" alt="FPC" title="FPC"></code>
-<code><img height="20" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C"></code>
-<code><img height="20" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" title="SQL"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server"></code>
-<code><img height="20" src="https://firebirdsql.org/file/about/firebird-logo-32.png" alt="Firebird" title="Firebird"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"></code>
+![Delphi](https://img.shields.io/badge/Delphi-E62431?style=flat-square&logo=delphi&logoColor=white)
+![Free Pascal](https://img.shields.io/badge/Free_Pascal-27426b?style=flat-square&logo=lazarus&logoColor=white)
+![php](https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-%23013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
+![Scipy](https://img.shields.io/badge/Scipy-%230054a6?style=flat-square&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23f89939?style=flat-square&logo=scikitlearn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23000000?style=flat-square&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-%23CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-%23382923?style=flat-square&logo=dbeaver&logoColor=white)
+![Google_Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-%2334A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
