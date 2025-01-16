@@ -36,3 +36,4 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-%23809bc8?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
+![JS](https://img.shields.io/badge/JS-%23000000?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
